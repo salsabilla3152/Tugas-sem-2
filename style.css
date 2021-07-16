@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 5rem;
+  position: relative;
+  background: #78da90 url(img/10.jpeg);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  overflow: hidden;
+  
+}
+#projects {
+  padding-top: 4rem;
+  background-image: url(img/bg.jpg);
+}
+section {
+  padding-top: 4rem;
+}
